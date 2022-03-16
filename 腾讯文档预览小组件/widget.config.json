@@ -1,0 +1,16 @@
+{
+  "packageId": "wpk3uz2cJkjE2",
+  "spaceId": "spceJHYh5Y30N",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "腾讯文档预览小程序",
+    "en-US": "腾讯文档预览小程序"
+  },
+  "icon": "./腾讯文档.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "可用此小程序预览腾讯文档",
+    "en-US": "可用此小程序预览腾讯文档"
+  }
+}
